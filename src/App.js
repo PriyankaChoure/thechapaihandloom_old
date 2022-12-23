@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Header from './components/main-header/header.component';
+import Footer from './components/main-footer/footer.component';
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
       <Header/>
       <div className='footer_container'>
         <footer>
-          <h3>main footer</h3>
+          <Footer/>
          
         </footer>
       </div>

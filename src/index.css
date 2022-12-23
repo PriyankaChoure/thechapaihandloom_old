@@ -17,6 +17,15 @@ a{
   color: black;
   font-weight: bold;
 }
+ul li{
+  list-style: none;
+}
+.text-uppercase {
+  text-transform: uppercase;
+}
+.heading-font{
+  font-size: large;
+}
 * {
   box-sizing: border-box;
 }
