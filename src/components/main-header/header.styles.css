@@ -29,8 +29,3 @@
     margin: 2vh;
     padding: 2vh;
 }
-.main-nav-list{
-    display: flex;
-    list-style-type: none;
-    justify-content: space-around;
-}
