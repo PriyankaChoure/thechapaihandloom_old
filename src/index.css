@@ -26,6 +26,11 @@ ul li{
 .heading-font{
   font-size: large;
 }
+.heading-medium{
+    font-size: 20pt;
+    font-weight: bolder;
+}
+
 * {
   box-sizing: border-box;
 }
